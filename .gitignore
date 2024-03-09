@@ -23,7 +23,5 @@ postcss.config.js
 tailwind.config.js
 vite.config.js
 vite.svg
-App.css
-index.css
 react.svg
 
