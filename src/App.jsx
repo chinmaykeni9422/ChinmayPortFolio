@@ -1,10 +1,10 @@
-import './App.css'
+import SideNavBar from './components/NavBar/SideNavBar'
 
 function App() {
 
   return (
     <>
-      <div>hello world</div>
+      <SideNavBar />
     </>
   )
 }
